@@ -1,4 +1,4 @@
-module github.com/realotz/protoc-gen-openapi
+module github.com/timoxren/protoc-gen-openapi
 
 go 1.15
 
